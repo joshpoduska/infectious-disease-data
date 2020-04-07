@@ -33,3 +33,6 @@ TermSocket.open: Opened 1
 [I 22:12:15.984 LabApp] Saving file at /mnt/code/Untitled.ipynb
 [I 22:14:16.115 LabApp] Saving file at /mnt/code/Untitled.ipynb
 [I 22:16:16.370 LabApp] Saving file at /mnt/code/Untitled.ipynb
+[I 22:20:16.658 LabApp] Saving file at /mnt/code/covidtracking.ipynb
+[I 22:22:16.850 LabApp] Saving file at /mnt/code/covidtracking.ipynb
+[I 22:24:17.054 LabApp] Saving file at /mnt/code/covidtracking.ipynb
