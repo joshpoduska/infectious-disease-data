@@ -1,38 +1,36 @@
-[I 22:01:58.191 LabApp] Copying /home/ubuntu/.ipython/profile_default/ipython_nbconvert_config.py -> /home/ubuntu/.jupyter/jupyter_nbconvert_config.py
-[W 22:01:58.196 LabApp] Config option `base_kernel_url` not recognized by `LabApp`.  Did you mean one of: `base_project_url, base_url`?
-[I 22:01:58.205 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
-[W 22:01:58.450 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
-[I 22:01:58.464 LabApp] Loading IPython parallel extension
-[I 22:01:58.930 LabApp] JupyterLab extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
-[I 22:01:58.930 LabApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
-[I 22:01:58.934 LabApp] Serving notebooks from local directory: /
-[I 22:01:58.934 LabApp] The Jupyter Notebook is running at:
-[I 22:01:58.934 LabApp] http://run-5e8cf8271c99e700065e34eb-lmsgm:8888/joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/
-[I 22:01:58.934 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[I 22:02:01.021 LabApp] 302 GET /joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/ (100.96.80.66) 0.66ms
-[I 22:02:03.124 LabApp] 302 GET /joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/ (100.96.80.66) 0.51ms
-[I 22:02:03.347 LabApp] 302 GET /joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/ (100.96.80.66) 0.56ms
-[W 22:02:06.058 LabApp] 404 GET /joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/lab/api/workspaces/joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/lab?1586296925964 (100.96.80.66): Workspace 'joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/lab' ('joshpoduskainfectious-disease-datanotebooksession5e8cf8271c99e700065e34eblab-48dd') not found
-[W 22:02:06.059 LabApp] Workspace 'joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/lab' ('joshpoduskainfectious-disease-datanotebooksession5e8cf8271c99e700065e34eblab-48dd') not found
-[W 22:02:06.059 LabApp] 404 GET /joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/lab/api/workspaces/joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/lab?1586296925964 (100.96.80.66) 1.54ms referer=https://try.dominodatalab.com/joshpoduska/infectious-disease-data/notebookSession/5e8cf8271c99e700065e34eb/lab/tree/mnt?
-[I 22:02:06.279 LabApp] Node v8.10.0
+[I 16:35:05.864 LabApp] Copying /home/ubuntu/.ipython/profile_default/ipython_nbconvert_config.py -> /home/ubuntu/.jupyter/jupyter_nbconvert_config.py
+[W 16:35:05.868 LabApp] Config option `base_kernel_url` not recognized by `LabApp`.  Did you mean one of: `base_project_url, base_url`?
+[I 16:35:05.876 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 16:35:06.095 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 16:35:06.108 LabApp] Loading IPython parallel extension
+[I 16:35:06.558 LabApp] JupyterLab extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 16:35:06.558 LabApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[I 16:35:06.561 LabApp] Serving notebooks from local directory: /
+[I 16:35:06.562 LabApp] The Jupyter Notebook is running at:
+[I 16:35:06.562 LabApp] http://run-5e8dfd0d1c99e700065e35fa-x9525:8888/joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/
+[I 16:35:06.562 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:35:08.781 LabApp] 302 GET /joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/ (100.96.162.72) 0.65ms
+[I 16:35:10.923 LabApp] 302 GET /joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/ (100.96.162.72) 0.49ms
+[I 16:35:11.110 LabApp] 302 GET /joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/ (100.96.162.72) 0.68ms
+[W 16:35:15.137 LabApp] 404 GET /joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/lab/api/workspaces/joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/lab?1586363714653 (100.96.162.72): Workspace 'joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/lab' ('joshpoduskainfectious-disease-datanotebooksession5e8dfd0d1c99e700065e35falab-903f') not found
+[W 16:35:15.138 LabApp] Workspace 'joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/lab' ('joshpoduskainfectious-disease-datanotebooksession5e8dfd0d1c99e700065e35falab-903f') not found
+[W 16:35:15.138 LabApp] 404 GET /joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/lab/api/workspaces/joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/lab?1586363714653 (100.96.162.72) 2.43ms referer=https://try.dominodatalab.com/joshpoduska/infectious-disease-data/notebookSession/5e8dfd0d1c99e700065e35fa/lab/tree/mnt?
+[I 16:35:15.254 LabApp] Node v8.10.0
     
-[I 22:02:06.284 LabApp] Build is up to date
-[I 22:02:14.853 LabApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
-[W 22:02:14.854 LabApp] Notebook mnt/code/Untitled.ipynb is not trusted
-[I 22:02:17.233 LabApp] Kernel started: 856a5009-f768-40df-a372-94abcdb7d3bb
-[W 22:02:31.085 LabApp] Notebook mnt/code/covid19-JHU.ipynb is not trusted
-[I 22:02:31.777 LabApp] Kernel started: eac0b489-e895-4019-b0c7-3fe4fd98feb7
-[I 22:04:15.035 LabApp] Saving file at /mnt/code/Untitled.ipynb
-[I 22:06:15.210 LabApp] Saving file at /mnt/code/Untitled.ipynb
-[I 22:07:00.449 LabApp] New terminal with automatic name: 1
+[I 16:35:15.259 LabApp] Build is up to date
+[I 16:35:22.235 LabApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 16:35:22.241 LabApp] Notebook mnt/code/data_exploration_n_viz.ipynb is not trusted
+[I 16:35:25.353 LabApp] Kernel started: b74dc3a7-e972-40f6-b08d-69364f39ddcb
+[I 16:37:24.537 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:39:25.234 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:41:26.536 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:43:28.435 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:45:30.257 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:47:32.877 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:49:33.550 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:51:34.993 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:53:35.536 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:55:37.456 LabApp] Saving file at /mnt/code/data_exploration_n_viz.ipynb
+[I 16:56:37.022 LabApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
-[I 22:08:15.408 LabApp] Saving file at /mnt/code/Untitled.ipynb
-[I 22:10:15.787 LabApp] Saving file at /mnt/code/Untitled.ipynb
-[I 22:12:15.984 LabApp] Saving file at /mnt/code/Untitled.ipynb
-[I 22:14:16.115 LabApp] Saving file at /mnt/code/Untitled.ipynb
-[I 22:16:16.370 LabApp] Saving file at /mnt/code/Untitled.ipynb
-[I 22:20:16.658 LabApp] Saving file at /mnt/code/covidtracking.ipynb
-[I 22:22:16.850 LabApp] Saving file at /mnt/code/covidtracking.ipynb
-[I 22:24:17.054 LabApp] Saving file at /mnt/code/covidtracking.ipynb
