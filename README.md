@@ -43,5 +43,10 @@ season are estimated.
 group has made it a priority to track it down and consolidate it into one place. Hospitalizations, # in ICU, # on ventilators, # 
 tests, and test results can be found in these data sets.
 
+## Data in the Queue (not yet set up as an automatic refresh)
+
+- [JHU+NYTimes+LATimes](https://covid-19.datasettes.com/)
+- [Apple Mobility](https://www.apple.com/covid19/mobility)
+
 
 ***Search the [Domino Support Site](https://docs.dominodatalab.com/en/4.0/) for answers to commonly asked questions.***
